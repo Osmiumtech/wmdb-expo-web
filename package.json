@@ -1,8 +1,8 @@
 {
-  "name": "@dwidge/wmdb-expo-web",
+  "name": "@osmiumtech/wmdb-expo-web",
   "version": "0.0.4",
   "description": "A WatermelonDB adapter for Expo Web applications.",
-  "repository": "github:dwidge/wmdb-expo-web",
+  "repository": "github:osmiumtech/wmdb-expo-web",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
